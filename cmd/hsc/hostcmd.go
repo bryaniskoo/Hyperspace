@@ -59,7 +59,7 @@ Available settings:
      minstorageprice:           currency / TB / Month
      minuploadbandwidthprice:   currency / TB
 
-Currency units can be specified, e.g. 10SC; run 'hsc help wallet' for details.
+Currency units can be specified, e.g. 10S; run 'hsc help wallet' for details. //Should be 10S rather than 10SC.
 
 Durations (maxduration and windowsize) must be specified in either blocks (b),
 hours (h), days (d), or weeks (w). A block is approximately 10 minutes, so one
